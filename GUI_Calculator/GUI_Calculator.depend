@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1765898626 source:d:\mishal\pf lab work\gui calculator\gui_calculator\main.cpp
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+
+1765898917 source:d:\mishal\pf lab work\gui calculator\gui_calculator\main_fullcalc.cpp
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+
